@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Jay Krishna 👋
 
-<!--
-**jaykrishna001/jaykrishna001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 B.Tech CSE (AI/ML) Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently Learning:
+
+* Machine Learning
+* Deep Learning
+* Generative AI
+* RAG Systems
+* AI Agents
+
+🛠️ Skills:
+
+* Python
+* NumPy
+* Pandas
+* Matplotlib
+* HTML
+* CSS
+
+📚 Current Goal:
+Become industry-ready in AI/ML and GenAI within the next 5 months.
+
+### Connect With Me
+
+* LinkedIn
+* GitHub
+* Email
+
+> Consistency beats talent when talent is inconsistent.
