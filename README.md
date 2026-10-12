@@ -22,7 +22,7 @@
 * CSS
 
 📚 Current Goal:
-Become industry-ready in AI/ML and GenAI within the next 5 months.
+Become industry-ready in AI/ML and GenAI within the next 2 years.
 
 ### Connect With Me
 
